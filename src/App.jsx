@@ -1434,7 +1434,7 @@ function Footer() {
 
         >
 
-          {WEDDING.groom}
+          {WEDDING.bride}
 
         </motion.span>
 
@@ -1466,7 +1466,7 @@ function Footer() {
 
         >
 
-          {WEDDING.bride}
+          {WEDDING.groom}
 
         </motion.span>
 
