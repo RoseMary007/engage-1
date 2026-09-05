@@ -594,7 +594,7 @@ function CoupleImage() {
 
             One love.
             <br />
-
+            
             <em>One story.</em>
 
           </h2>
